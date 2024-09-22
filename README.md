@@ -1,19 +1,19 @@
-## FinSight360: Intelligent Financial Analytics
+# FinSight360: Intelligent Financial Analytics
 
-### Credit Scoring Service: 
+## Credit Scoring Service: 
 Evaluates creditworthiness using historical transaction data and personal details.
 
-### Fraud Detection Service: 
+## Fraud Detection Service: 
 Monitors transactions in real time to identify and flag suspicious activities.
 
-### Loan Default Prediction Service: 
+## Loan Default Prediction Service: 
 Assesses the likelihood of loan defaults based on borrower data and historical trends.
 
-### Product Recommendation Service: 
+## Product Recommendation Service: 
 Suggests personalized financial products based on user behavior and needs.
 
-### AML Detection Service: 
+## AML Detection Service: 
 Analyzes transactions for patterns indicative of money laundering.
 
-### Cash Flow Prediction Service: 
+## Cash Flow Prediction Service: 
 Forecasts cash flow for business clients based on transaction history and external factors.
