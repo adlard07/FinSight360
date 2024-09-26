@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from logger import logging
 from exception import CustomException
 
-# Class for generating data for multiple tables with SQLite integration to build ML models
+# Generates data for multiple tables with SQLite integration to build ML models
 class DataGeneratorConfig:
     database: str = os.path.join('data', 'FinSight360.db')
     credit_table: str = "credit_table"
